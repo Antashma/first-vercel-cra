@@ -6,7 +6,7 @@ function App() {
   
   return (
     <main>
-      <h1>This is Sam G&apos;s priject page</h1>
+      <h1>This is Darren Skinner's project page</h1>
     </main>
   );
 }
